@@ -8,7 +8,7 @@
 <body>
     <div class="container">
         <section class="section">
-            <h1>About Me:</h1>
+            <h1>About Me</h1>
             <p class="list-item">💻 <strong>I’m currently working on:</strong><br> Improving cloud-based solutions and implementing microservices architecture.</p>
             <p class="list-item">🤝 <strong>I’m looking to collaborate on:</strong><br> Fullstack projects</p>
             <p class="list-item">🌱 <strong>I’m currently learning:</strong><br> Advanced AWS Services and GraphQL</p>
