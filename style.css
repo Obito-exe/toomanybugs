@@ -1,0 +1,39 @@
+
+        body {
+            background-color: #1e1e1e;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        h1, h2 {
+            color: #f0f0f0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section-header {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+        .list-item {
+            margin-bottom: 10px;
+        }
+        .socials img {
+            width: 35px;
+            margin-right: 10px;
+        }
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .tech-stack div {
+            background-color: #333;
+            padding: 10px;
+            margin: 5px;
+            border-radius: 5px;
+            font-size: 0.9em;
+        }
